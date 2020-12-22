@@ -1,7 +1,7 @@
 # Awesome Machine Learning & Business Research
 *Work-in-Progress*
 
-A curated list of awesome machine learning research for academic journals in business.
+A curated list of awesome machine learning (ML) research for academic journals in business.
 
 The purpose of this repository is not to provide a full treatment of the many topics related to machine learning for business. Rather, it is intended to give an overview and cover the interesting topics in Information Systems and Marketing to serve as a short and non-exhaustive review of ML-Business literature. Specifically, I covered following academic journals in business. 
 
