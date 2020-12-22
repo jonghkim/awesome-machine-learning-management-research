@@ -22,5 +22,4 @@ The purpose of this repository is not to provide a full treatment of the many to
 
 The subject of machine learning in business journals is incredibly vast and the number of papers dedicated to it is rapidly increasing. Thus, this repository is designed to serve as a short and non-exhaustive review of the literature. 
 
-
 ## Table of Contents
