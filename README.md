@@ -5,7 +5,7 @@ A curated list of awesome machine learning research for academic journals in bus
 
 The purpose of this repository is not to provide a full treatment of the many topics related to machine learning for business. Rather, it is intended to give an overview and cover the interesting topics in Information Systems, Marketing, and Finance so that the reader is guided towards the relevant references.
 
-Specifically, I covered following academic journals in business. The subject of machine learning in business is incredibly vast and the number of papers dedicated to it is substantial and still rapidly increasing. Thus, this repository is designed to serve as a short and non-exhaustive review of the literature. 
+Specifically, I covered following academic journals in business. The subject of machine learning in business journals is incredibly vast and the number of papers dedicated to it is rapidly increasing. Thus, this repository is designed to serve as a short and non-exhaustive review of the literature. 
 
 - Information Systems
     - [Information Systems Research](https://pubsonline.informs.org/journal/isre)
