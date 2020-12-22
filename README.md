@@ -1,4 +1,4 @@
-# awesome-business-ML-research
+# Awesome Machine Learning & Business Research
 *Work-in-Progress*
 
 A curated list of awesome machine learning research for academic journals in business.
