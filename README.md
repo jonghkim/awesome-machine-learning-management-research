@@ -1,4 +1,5 @@
 # awesome-business-ML-research
+*Work-in-Progress*
 
 A curated list of awesome machine learning research for academic journals in business.
 
@@ -20,3 +21,6 @@ Specifically, I covered following academic journals in business. The subject of 
     - [Journal of Finance](https://onlinelibrary.wiley.com/journal/15406261)
     - [Review of Financial Studies](https://academic.oup.com/rfs)
     - [Journal of Financial Economics](https://www.sciencedirect.com/journal/journal-of-financial-economics)
+
+
+## Table of Contents
