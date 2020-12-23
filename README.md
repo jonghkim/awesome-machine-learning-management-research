@@ -18,11 +18,11 @@ The purpose of this repository is not to provide a full treatment of the many to
 I particulary explored these two fields since they have historically served as the technical interface for conventional business school disciplines, still the number of papers dedicated to machine learning in other business domains is also rapidly increasing.
 
 ## Table of Contents
-| Title  | Author | Year | Journal | Link | Keywords |
+| Title  | Author | Year | Journal | Link | Selected Keywords (Up to 5) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care: Exploiting Interaction Dependency and Temporal Patterns | Zhu et al. | Forthcoming  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595738)  | Activity of Daily Living recognition, deep learning, human-object interaction, 2D interaction kernel, convolutional neural networks, sequence-to-sequence model, design science  |
-| Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach  | Shin et al.  | Forthcoming | MIS Quarterly  | - | semantic content analysis, social media, online advertisement, customer engagement, deep learning, topic modeling, Big Data, representation learning, machine learning, Tumblr  |
-| Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks  | Han et al.  | Forthcoming  | MIS Quarterly  | -  | Private information protection, personal exposure risk, machine-learning, location prediction attack  |
+| A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care: Exploiting Interaction Dependency and Temporal Patterns | Zhu et al. | Forthcoming  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595738)  | activity recognition, human-object interaction, CNN, Seq2Seq, design science  |
+| Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach  | Shin et al.  | Forthcoming | MIS Quarterly  | - | semantic content analysis, customer engagement, topic modeling, representation learning, Tumblr  |
+| Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks  | Han et al.  | Forthcoming  | MIS Quarterly  | -  | private information protection, personal exposure risk, machine-learning, location prediction attack  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
