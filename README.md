@@ -33,5 +33,5 @@ I particulary explored these two fields since they have historically served as t
 | Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration  | Lee et al.  | 2020  | WP |  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3304756) | interpretable machine learning, text mining, automatic concept extraction, augmented hypothesis development  | 
 | Good Explanation for Algorithmic Transparency  | Lu et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603)  | explainable AI, interpretable AI, lab experiments  |
 | Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
-| Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2020  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
+| Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
 
