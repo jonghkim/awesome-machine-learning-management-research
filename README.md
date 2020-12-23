@@ -16,7 +16,7 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Journal of Consumer Research](https://academic.oup.com/jcr)
 
 ## Table of Contents
-### Review Paper
+### Review Papers
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Deep Learning for Information Systems Research | Samtani et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
