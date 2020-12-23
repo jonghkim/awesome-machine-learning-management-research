@@ -34,4 +34,5 @@ I particulary explored these two fields since they have historically served as t
 | Good Explanation for Algorithmic Transparency  | Lu et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603)  | explainable AI, interpretable AI, lab experiments  |
 | Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
 | Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
-
+| Connecting Systems, Data, and People: A Multidisciplinary Research Roadmap for Chronic Disease Management | Bardhan et al. | 2020 | MIS Quarterly | [Link](http://www.misq.org/skin/frontend/default/misq/pdf/V44I1/07_14644_SI_CD_BardhanIntro.pdf) | - |
+ 
