@@ -20,6 +20,7 @@ The purpose of this repository is intended to give an overview and cover the int
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Deep Learning for Information Systems Research | Samtani et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
+| How can machine learning aid behavioral marketing research? | Hagen et al. | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09535-7)| - |
 | Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
 
 ### Refereed Journal Papers
