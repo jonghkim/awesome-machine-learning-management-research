@@ -3,7 +3,7 @@
 
 A curated list of awesome machine learning (ML) research in academic business journals.
 
-The purpose of this repository is intended to give an overview and cover the interesting topics in **Information Systems** and **Marketing** to serve as a short and non-exhaustive review of ML-Business literature. In particular, I explored these two fields since they have historically served as the technical interface for conventional business school disciplines, still the number of papers dedicated to machine learning in other business domains is also rapidly increasing. Specifically, I mainly covered following academic journals:
+The purpose of this repository is intended to give an overview and cover the interesting topics in **Information Systems** and **Marketing** to serve as a short and non-exhaustive review of ML-Business literature. In particular, I explored these two fields since they have historically served as the technical interface for conventional business school disciplines, still the number of papers dedicated to machine learning in other business domains is also rapidly increasing. Specifically, I mainly covered the following academic journals:
 
 - Information Systems
     - [Information Systems Research](https://pubsonline.informs.org/journal/isre)
