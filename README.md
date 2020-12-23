@@ -38,6 +38,10 @@ The purpose of this repository is intended to give an overview and cover the int
 | Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
 | Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages | Ordenes et al. | 2019 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article/45/5/988/4964963) | consumer sharing, speech act theory, image acts, text mining, message dynamics |
 | Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
+| Visual listening in: Extracting brand image portrayed on social media | Liu et al.| Marketing Science | 2020 | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)| - |
+| Mine your own business: Market-structure surveillance through text mining | Netzer et al. | Marketing Science | 2012 | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.1120.0713) | - | 
+| A Video-Based Automated Recommender (VAR) System for Garments | Lu et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.0984) | - |
+| Uniting the tribes: Using text for marketing insight | Berger et al. | 2019 | Journal of Marketing | [Link](https://journals.sagepub.com/doi/10.1177/0022242919873106) |- |
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
 
 ### Work-In-Progress Papers
