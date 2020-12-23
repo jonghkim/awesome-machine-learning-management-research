@@ -8,12 +8,14 @@ The purpose of this repository is intended to give an overview and cover the int
 - **Information Systems**
     - [Information Systems Research](https://pubsonline.informs.org/journal/isre)
     - [MIS Quarterly](https://www.misq.org/)
+    - [Management Science](https://pubsonline.informs.org/journal/mnsc)
 
 - **Marketing**
     - [Marketing Science](https://pubsonline.informs.org/journal/mksc)
     - [Journal of Marketing](https://journals.sagepub.com/home/jmx)
     - [Journal of Marketing Research](https://journals.sagepub.com/home/mrj)
     - [Journal of Consumer Research](https://academic.oup.com/jcr)
+    - [Journal of the Academy of Marketing Science] (https://www.springer.com/journal/11747)
 
 ## Table of Contents
 ### Review Papers
@@ -22,6 +24,7 @@ The purpose of this repository is intended to give an overview and cover the int
 | Deep Learning for Information Systems Research | Samtani et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
 | How can machine learning aid behavioral marketing research? | Hagen et al. | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09535-7)| - |
 | Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
+| Unstructured data in marketing | Balducci and Marinova | 2018 | Journal of the Academy of Marketing Science | [Link](https://link.springer.com/article/10.1007/s11747-018-0581-x)| - |
 
 ### Refereed Journal Papers
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
