@@ -35,4 +35,6 @@ I particulary explored these two fields since they have historically served as t
 | Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
 | Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
 | Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages | Ordenes et al. | 2019 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article/45/5/988/4964963) | consumer sharing, speech act theory, image acts, text mining, message dynamics |
-| Machine Learning Instrument Variables for Causal Inference | Singh et al. | ACM Conference on Economics and Computation | 2020 | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
+| Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
+| Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
+
