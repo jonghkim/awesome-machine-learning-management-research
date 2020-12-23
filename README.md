@@ -1,13 +1,14 @@
 # Awesome Machine Learning & Business Research
 *Work-in-Progress*
 
-A curated list of awesome machine learning (ML) research for academic journals in business.
+A curated list of awesome machine learning (ML) research for academic business journals.
 
 The purpose of this repository is not to provide a full treatment of the many topics related to machine learning for business. Rather, it is intended to give an overview and cover the interesting topics in Information Systems and Marketing to serve as a short and non-exhaustive review of ML-Business literature. Specifically, I covered following academic journals in business. 
 
 - Information Systems
     - [Information Systems Research](https://pubsonline.informs.org/journal/isre)
     - [MIS Quarterly](https://www.misq.org/)
+    - [Management Science](https://pubsonline.informs.org/journal/mnsc)
 
 - Marketing
     - [Marketing Science](https://pubsonline.informs.org/journal/mksc)
@@ -26,4 +27,11 @@ I particulary explored these two fields since they have historically served as t
 | Explainable AI: from black box to glass box  | Arun Rai  | Journal of the Academy of Marketing Science  | 2019  | [Link](https://misq.org/misq/downloads/download/editorial/673/)  | -  |
 | A Comprehensive Analysis of Triggers and Risk Factors for Asthma Based on Machine Learning and Large Heterogeneous Data Sources  | Zhang and Ram  | 2020  | Content Cell  | [Link](https://misq.org/a-comprehensive-analysis-of-triggers-and-risk-factors-for-asthma-based-on-machine-learning-and-large-heterogeneous-data-sources.html)  | Chronic disease management, asthma triggers/risk factors, CNN, sequential pattern mining, geometric inference |
 | Go to You Tube and Call Me in the Morning: Use of Social Media for Chronic Conditions | Liu et al.  | MIS Quarterly  | 2020  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3061149)  | healthcare informatics, digital therapeutics, BLSTM, CNN, collective engagement  |
+| The Impact of User Personality Traits on Word of Mouth: Text-Mining Social Media Platforms | Adamopoulos et al.  | Information Systems Research  | 2018  | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0768)  | -  |
+| Large Scale Cross-Category Analysis of Consumer Review Content on Sales Conversion Leveraging Deep Learning | Liu et al.  | Journal of Marketing Research  | 2019  | [Link](https://doi.org/10.1177%2F0022243719866690)  | consumer purchase journey, economic impact of text, product reviews, NLP, regression discontinuity in time  |
+| How Much is an Image Worth? The Impact of Professional versus Amateur Airbnb Property Images on Property Demand  | Zhang et al.  | WP  | 2020  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021)  | economic impact of images, computer vision, deep learning, image quality classification, image attribute analysis  |
+| Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration  | Lee et al.  | WP | 2020  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3304756) | interpretable machine learning, text mining, automatic concept extraction, augmented hypothesis development  | 
+| Good Explanation for Algorithmic Transparency  | Lu et al.  | WP  | 2020  | [Link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603)  | explainable AI, interpretable AI, lab experiments  |
+| Soul and machine (learning) | Proserpio et al.  | Marketing Letters  | 2020  | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
