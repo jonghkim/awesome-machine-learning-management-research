@@ -46,6 +46,7 @@ The purpose of this repository is intended to give an overview and cover the int
 | A Video-Based Automated Recommender (VAR) System for Garments | Lu et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.0984) | - |
 | Uniting the tribes: Using text for marketing insight | Berger et al. | 2019 | Journal of Marketing | [Link](https://journals.sagepub.com/doi/10.1177/0022242919873106) |- |
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
+| Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining | Yang et al. | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0727) | - |
 
 ### Work-In-Progress Papers
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
