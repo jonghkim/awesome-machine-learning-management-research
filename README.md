@@ -18,3 +18,7 @@ The purpose of this repository is not to provide a full treatment of the many to
 I particulary explored these two fields since they have historically served as the technical interface for conventional business school disciplines, still the number of papers dedicated to machine learning in other business domains is also rapidly increasing.
 
 ## Table of Contents
+| Title  | Author | Year | Journal | Link | Keywords |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care: Exploiting Interaction Dependency and Temporal Patterns | Zhu, H., Samtani, S., Brown, R., and Chen, H  | Forthcoming  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595738)  | Activity of Daily Living recognition, deep learning, human-object interaction, 2D interaction kernel, convolutional neural networks, sequence-to-sequence model, design science  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
