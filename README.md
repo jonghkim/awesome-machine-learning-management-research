@@ -15,7 +15,7 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Journal of Marketing](https://journals.sagepub.com/home/jmx)
     - [Journal of Marketing Research](https://journals.sagepub.com/home/mrj)
     - [Journal of Consumer Research](https://academic.oup.com/jcr)
-    - [Journal of the Academy of Marketing Science] (https://www.springer.com/journal/11747)
+    - [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747)
 
 ## Table of Contents
 ### Review Papers
