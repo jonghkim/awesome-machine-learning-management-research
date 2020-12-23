@@ -37,4 +37,5 @@ I particulary explored these two fields since they have historically served as t
 | Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages | Ordenes et al. | 2019 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article/45/5/988/4964963) | consumer sharing, speech act theory, image acts, text mining, message dynamics |
 | Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
-
+| Deep Learning for Information Systems Research | Samtani, et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
+| Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - |
