@@ -35,3 +35,4 @@ The purpose of this repository is intended to give an overview and cover the int
 | Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
 | Deep Learning for Information Systems Research | Samtani, et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
+| Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
