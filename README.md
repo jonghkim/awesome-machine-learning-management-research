@@ -21,8 +21,8 @@ I particulary explored these two fields since they have historically served as t
 | Title  | Author | Year | Journal | Link | Keywords |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care: Exploiting Interaction Dependency and Temporal Patterns | Zhu et al. | Forthcoming  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595738)  | Activity of Daily Living recognition, deep learning, human-object interaction, 2D interaction kernel, convolutional neural networks, sequence-to-sequence model, design science  |
-| Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach  | Shin et al.  | Forthcoming | MIS Quarterly  |  | semantic content analysis, social media, online advertisement, customer engagement, deep learning, topic modeling, Big Data, representation learning, machine learning, Tumblr  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach  | Shin et al.  | Forthcoming | MIS Quarterly  | - | semantic content analysis, social media, online advertisement, customer engagement, deep learning, topic modeling, Big Data, representation learning, machine learning, Tumblr  |
+| Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks  | Han et al.  | Forthcoming  | MIS Quarterly  | -  | Private information protection, personal exposure risk, machine-learning, location prediction attack  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
