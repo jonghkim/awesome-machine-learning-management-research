@@ -19,7 +19,7 @@ The purpose of this repository is not to provide a full treatment of the many to
 I particulary explored these two fields since they have historically served as the technical interface for conventional business school disciplines, still the number of papers dedicated to machine learning in other business domains is also rapidly increasing.
 
 ## Table of Contents
-| Title  | Author | Year | Journal | Link | Selected Keywords (Up to 5) |
+| Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care: Exploiting Interaction Dependency and Temporal Patterns | Zhu et al. | Forthcoming  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595738)  | activity recognition, human-object interaction, CNN, Seq2Seq, design science  |
 | Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach  | Shin et al.  | Forthcoming | MIS Quarterly  | - | semantic content analysis, customer engagement, topic modeling, representation learning, Tumblr  |
