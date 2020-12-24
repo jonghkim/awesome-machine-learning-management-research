@@ -1,7 +1,8 @@
 # Awesome Machine Learning & Management Research
 *Work-in-Progress*
 
-A curated list of machine learning (ML) research in academic management journals.
+A curated list of machine learning (ML) research in academic management journals. 
+(*If you want to contribute to this list, please send me a pull request or email me quantic.jh@gmail.com*)
 
 The purpose of this repository is intended to give an overview and cover the interesting topics in **Information Systems** and **Marketing** to serve as a short and non-exhaustive review on the intersection of ML and management research. In particular, I explored these two fields since they have historically served as the technical interface for conventional business school disciplines. Specifically, I mainly covered the following academic journals:
 
