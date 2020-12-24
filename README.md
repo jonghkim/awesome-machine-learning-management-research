@@ -27,6 +27,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
 - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
+- [Application](#application)
 
 <a name="review_papers"></a>
 ### Review Papers
