@@ -52,6 +52,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Visual listening in: Extracting brand image portrayed on social media | Liu et al.| 2020 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)| - |
 | Uniting the tribes: Using text for marketing insight | Berger et al. | 2019 | Journal of Marketing | [Link](https://journals.sagepub.com/doi/10.1177/0022242919873106) |- |
 | A Video-Based Automated Recommender (VAR) System for Garments | Lu et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.0984) | - |
+| Just the faces: Exploring the effects of facial features in print advertising | Li et al. | 2014 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2013.0837) | - |
 
 <a name="customer_preference"></a>
 ### Customer Preference
