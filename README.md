@@ -22,7 +22,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 - [Review Papers](#review_papers)
 - [Content Engineering](#content_engineering)
-- [Customer Preference](#customer_preference)
+- [Consumer Profiling and Market Structure](#customer_preference)
 - [Prediction](#prediction)
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
@@ -56,7 +56,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Just the faces: Exploring the effects of facial features in print advertising | Li et al. | 2014 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2013.0837) | - |
 
 <a name="customer_preference"></a>
-### Customer Preference
+### Consumer Profiling and Market Structure
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Automated text analysis for consumer research | Humphreys et al. | 2017 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article-abstract/44/6/1274/4283031?redirectedFrom=fulltext) | - |
