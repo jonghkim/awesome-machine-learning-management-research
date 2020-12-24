@@ -34,8 +34,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Deep Learning for Information Systems Research | Samtani et al. | 2020 | WP | [Link](https://arxiv.org/abs/2010.05774) | - |
-| How can machine learning aid behavioral marketing research? | Hagen et al. | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09535-7)| - |
 | Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
+| How can machine learning aid behavioral marketing research? | Hagen et al. | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09535-7)| - |
 | Unstructured data in marketing | Balducci and Marinova | 2018 | Journal of the Academy of Marketing Science | [Link](https://link.springer.com/article/10.1007/s11747-018-0581-x)| - |
 
 <a name="content_engineering"></a>
