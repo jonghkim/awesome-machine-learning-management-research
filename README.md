@@ -18,6 +18,17 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747)
 
 ## Table of Contents
+    - [Review Papers](#review_papers)
+    - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
+    - [Prediction](#prediction)
+    - [Causal Inference](#causal_inference)
+    - [Explainable Artificial Intelligence (XAI)](#xai)
+    - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
+    - [Application](#application)
+
+    Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
+
+<a name="review_papers"></a>
 ### Review Papers
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -26,18 +37,8 @@ The purpose of this repository is intended to give an overview and cover the int
 | Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
 | Unstructured data in marketing | Balducci and Marinova | 2018 | Journal of the Academy of Marketing Science | [Link](https://link.springer.com/article/10.1007/s11747-018-0581-x)| - |
 
-### Refereed Journal Papers
-- Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
-
-    - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
-    - [Prediction](#prediction)
-    - [Causal Inference](#causal_inference)
-    - [Explainable Artificial Intelligence (XAI)](#xai)
-    - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
-    - [Application](#application)
-
 <a name="content_engineering"></a>
-#### Content Engineering / Variable Creation / Feature Extraction
+### Content Engineering / Variable Creation / Feature Extraction
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | How Much is an Image Worth? The Impact of Professional versus Amateur Airbnb Property Images on Property Demand  | Zhang et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021)  | economic impact of images, computer vision, deep learning, image quality classification, image attribute analysis  |
@@ -56,14 +57,14 @@ The purpose of this repository is intended to give an overview and cover the int
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
 
 <a name="prediction"></a>
-#### Prediction
+### Prediction
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
 | Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
 
 <a name="causal_inference"></a>
-#### Causal Inference
+### Causal Inference
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining | Yang et al. | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0727) | - |
@@ -76,7 +77,7 @@ Artificial Intelligence: An Agenda | [Link](https://www.nber.org/system/files/ch
 | Recursive partitioning for heterogeneous causal effects | Athey and Imbens | 2016 | Proceedings of the National Academy of Sciences of the United States of America (PNAS) | [Link](https://www.pnas.org/content/pnas/113/27/7353.full.pdf) | - |
 
 <a name="xai"></a>
-#### Explainable Artificial Intelligence (XAI)
+### Explainable Artificial Intelligence (XAI)
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Explainable AI: from black box to glass box  | Arun Rai  | 2019 | Journal of the Academy of Marketing Science | [Link](https://misq.org/misq/downloads/download/editorial/673/)  | -  |
@@ -85,13 +86,13 @@ Artificial Intelligence: An Agenda | [Link](https://www.nber.org/system/files/ch
 | Predicting Returns with Text Data | Ke et al. | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389884) | supervised topic modeling, sentiment analysis, return predictability |
 
 <a name="fat"></a>
-#### Fairness, Accountability, and Transparency (FAT) in Machine Learning
+### Fairness, Accountability, and Transparency (FAT) in Machine Learning
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks  | Han et al.  | Forthcoming  | MIS Quarterly  | -  | private information protection, personal exposure risk, machine-learning, location prediction attack  |
 
 <a name="application"></a>
-#### Application
+### Application
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
