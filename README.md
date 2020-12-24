@@ -56,6 +56,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
 | Automated text analysis for consumer research | Humphreys et al. | 2017 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article-abstract/44/6/1274/4283031?redirectedFrom=fulltext) | - |
 | A semantic approach for estimating consumer content preferences from online search queries | Liu et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1112) | - |
+| Identifying customer needs from usergenerated content | Timoshenko et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123) | - |
 
 <a name="prediction"></a>
 ### Prediction
@@ -63,6 +64,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
 | Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
+| Consumer preference elicitation of complex products using fuzzy support vector machine active learning | Huang et al. | 2016 | Marketing Science | [Link] (https://pubsonline.informs.org/doi/10.1287/mksc.2015.0946) | - |
+
 
 <a name="causal_inference"></a>
 ### Causal Inference
