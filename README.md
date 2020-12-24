@@ -18,7 +18,7 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747)
 
 ## Table of Contents
-Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions. (*If you want to contribute to this list, please send me a pull request or email me quantic.jh@gmail.com*)
+Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions. 
 
 - [Review Papers](#review_papers)
 - [Content Engineering](#content_engineering)
@@ -28,6 +28,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 - [Explainable Artificial Intelligence (XAI)](#xai)
 - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
 - [Application](#application)
+
+*If you want to contribute to this list, please send me a pull request or email me quantic.jh@gmail.com*
 
 <a name="review_papers"></a>
 ### Review Papers
