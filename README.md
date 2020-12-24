@@ -107,4 +107,3 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
-| A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control | Kartik Hosanagar | 2019 | - | [Link](https://www.amazon.com/s?k=9780525560883&tag=randohouseinc27155-20&ref=nb_sb_noss) | - |
