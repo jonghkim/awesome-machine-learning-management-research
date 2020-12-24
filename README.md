@@ -58,6 +58,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 <a name="customer_preference"></a>
 #### Customer Preference
+| Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Automated text analysis for consumer research | Humphreys et al. | 2017 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article-abstract/44/6/1274/4283031?redirectedFrom=fulltext) | - |
 | A semantic approach for estimating consumer content preferences from online search queries | Liu et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1112) | - |
 | Identifying customer needs from usergenerated content | Timoshenko et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123) | - |
