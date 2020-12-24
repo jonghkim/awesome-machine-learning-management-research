@@ -22,8 +22,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 - [Review Papers](#review_papers)
 - [Content Engineering](#content_engineering)
-    - [Variable Creation](#variable_creation)
-    - [Customer Preference](#customer_preference)
+- [Customer Preference](#customer_preference)
 - [Prediction](#prediction)
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
@@ -40,8 +39,6 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 <a name="content_engineering"></a>
 ### Content Engineering
-<a name="variable_creation"></a>
-#### Variable Creation
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | How Much is an Image Worth? The Impact of Professional versus Amateur Airbnb Property Images on Property Demand  | Zhang et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021)  | economic impact of images, computer vision, deep learning, image quality classification, image attribute analysis  |
@@ -57,7 +54,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | A Video-Based Automated Recommender (VAR) System for Garments | Lu et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.0984) | - |
 
 <a name="customer_preference"></a>
-#### Customer Preference
+### Customer Preference
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Automated text analysis for consumer research | Humphreys et al. | 2017 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article-abstract/44/6/1274/4283031?redirectedFrom=fulltext) | - |
