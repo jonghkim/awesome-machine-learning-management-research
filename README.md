@@ -18,6 +18,8 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747)
 
 ## Table of Contents
+Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
+
     - [Review Papers](#review_papers)
     - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
     - [Prediction](#prediction)
@@ -25,8 +27,6 @@ The purpose of this repository is intended to give an overview and cover the int
     - [Explainable Artificial Intelligence (XAI)](#xai)
     - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
     - [Application](#application)
-
-    Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
 
 <a name="review_papers"></a>
 ### Review Papers
