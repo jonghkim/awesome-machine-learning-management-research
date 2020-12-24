@@ -69,11 +69,11 @@ Note. Papers in top journals often make contributions across many topics so I cl
 ### Prediction
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
-| Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
 | Consumer preference elicitation of complex products using fuzzy support vector machine active learning | Huang et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2015.0946) | - |
 | Retention Futility: Targeting High-Risk Customers Might Be Ineffective | Ascarza, E.| 2018 | Journal of Marketing Research | [Link](https://journals.sagepub.com/doi/abs/10.1509/jmr.16.0163?journalCode=mrja) | - |
 | Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
+| Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
+| Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
 
 <a name="causal_inference"></a>
 ### Causal Inference
