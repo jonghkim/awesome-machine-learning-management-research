@@ -21,12 +21,11 @@ The purpose of this repository is intended to give an overview and cover the int
 Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
 
 - [Review Papers](#review_papers)
-- [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
+- [Content Engineering](#content_engineering)
 - [Prediction](#prediction)
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
 - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
-- [Application](#application)
 
 <a name="review_papers"></a>
 ### Review Papers
@@ -38,7 +37,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Unstructured data in marketing | Balducci and Marinova | 2018 | Journal of the Academy of Marketing Science | [Link](https://link.springer.com/article/10.1007/s11747-018-0581-x)| - |
 
 <a name="content_engineering"></a>
-### Content Engineering / Variable Creation / Feature Extraction
+### Content Engineering
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | How Much is an Image Worth? The Impact of Professional versus Amateur Airbnb Property Images on Property Demand  | Zhang et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021)  | economic impact of images, computer vision, deep learning, image quality classification, image attribute analysis  |
