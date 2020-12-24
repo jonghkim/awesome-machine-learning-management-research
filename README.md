@@ -19,7 +19,8 @@ The purpose of this repository is intended to give an overview and cover the int
 
 ## Table of Contents
 Papers in top journals often make contributions across many topics so I classified them according to their key contributions. 
-Note. *If you want to contribute to this list, please send me a pull request or email me quantic.jh@gmail.com*
+
+*Note. If you want to contribute to this list, please send me a pull request or email me quantic.jh@gmail.com*
 
 - [Review Papers](#review_papers)
 - [Content Engineering](#content_engineering)
