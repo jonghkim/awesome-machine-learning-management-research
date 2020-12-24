@@ -19,13 +19,14 @@ The purpose of this repository is intended to give an overview and cover the int
 
 ## Table of Contents
 Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
-    - [Review Papers](#review_papers)
-    - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
-    - [Prediction](#prediction)
-    - [Causal Inference](#causal_inference)
-    - [Explainable Artificial Intelligence (XAI)](#xai)
-    - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
-    - [Application](#application)
+
+- [Review Papers](#review_papers)
+- [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
+- [Prediction](#prediction)
+- [Causal Inference](#causal_inference)
+- [Explainable Artificial Intelligence (XAI)](#xai)
+- [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
+- [Application](#application)
 
 <a name="review_papers"></a>
 ### Review Papers
