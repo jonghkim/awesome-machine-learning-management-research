@@ -69,8 +69,7 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining | Yang et al. | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0727) | - |
 | Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
-| The impact of machine learning on economics | Athey, S. | 2018 | The Economics of
-Artificial Intelligence: An Agenda | [Link](https://www.nber.org/system/files/chapters/c14009/c14009.pdf) | - | 
+| The impact of machine learning on economics | Athey, S. | 2018 | The Economics of Artificial Intelligence: An Agenda | [Link](https://www.nber.org/system/files/chapters/c14009/c14009.pdf) | - | 
 | A Measure of Robustness to Misspecification | Athey and Imbens | 2015 | American Economic Review | [Link](https://www.aeaweb.org/articles?id=10.1257/aer.p20151020) | - |
 | Efficient Inference of Average Treatment Effects in High Dimensions via Approximate Residual Balancing | Athey et al. | 2016 | WP | [Link](https://ideas.repec.org/p/ecl/stabus/3408.html) | - |
 | The state of applied econometrics: Causality and policy evaluation| Athey and Imbens | 2017 | Journal of Economic Perspectives | [Link](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3) | - |
