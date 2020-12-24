@@ -22,6 +22,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 - [Review Papers](#review_papers)
 - [Content Engineering](#content_engineering)
+    - [Variable Creation](#variable_creation)
+    - [Customer Preference](#customer_preference)
 - [Prediction](#prediction)
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
@@ -38,6 +40,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 
 <a name="content_engineering"></a>
 ### Content Engineering
+<a name="variable_creation"></a>
+#### Variable Creation
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | How Much is an Image Worth? The Impact of Professional versus Amateur Airbnb Property Images on Property Demand  | Zhang et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021)  | economic impact of images, computer vision, deep learning, image quality classification, image attribute analysis  |
@@ -47,16 +51,18 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Go to You Tube and Call Me in the Morning: Use of Social Media for Chronic Conditions | Liu et al.  | 2020  | MIS Quarterly  | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3061149)  | healthcare informatics, digital therapeutics, BLSTM, CNN, collective engagement  |
 | The Impact of User Personality Traits on Word of Mouth: Text-Mining Social Media Platforms | Adamopoulos et al.  | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0768)  | -  |
 | Large Scale Cross-Category Analysis of Consumer Review Content on Sales Conversion Leveraging Deep Learning | Liu et al.  | 2019  | Journal of Marketing Research  | [Link](https://doi.org/10.1177%2F0022243719866690)  | consumer purchase journey, economic impact of text, product reviews, NLP, regression discontinuity in time  |
-| Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
 | Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages | Ordenes et al. | 2019 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article/45/5/988/4964963) | consumer sharing, speech act theory, image acts, text mining, message dynamics |
 | Visual listening in: Extracting brand image portrayed on social media | Liu et al.| 2020 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)| - |
 | Uniting the tribes: Using text for marketing insight | Berger et al. | 2019 | Journal of Marketing | [Link](https://journals.sagepub.com/doi/10.1177/0022242919873106) |- |
-| Mine your own business: Market-structure surveillance through text mining | Netzer et al. | 2012 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.1120.0713) | - | 
 | A Video-Based Automated Recommender (VAR) System for Garments | Lu et al. | 2016 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.0984) | - |
-| Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
+
+<a name="customer_preference"></a>
+#### Customer Preference
 | Automated text analysis for consumer research | Humphreys et al. | 2017 | Journal of Consumer Research | [Link](https://academic.oup.com/jcr/article-abstract/44/6/1274/4283031?redirectedFrom=fulltext) | - |
 | A semantic approach for estimating consumer content preferences from online search queries | Liu et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1112) | - |
 | Identifying customer needs from usergenerated content | Timoshenko et al. | 2018 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123) | - |
+| Designing Ranking Systems for Hotels on Travel Search Engines by Mining User-Generated and Crowd-Sourced | Ghose et al. | 2012 | Marketing Science| [Link](http://www.andrew.cmu.edu/user/beibeili/Publications/BeibeiLi_Ranking_MktSci.2012.pdf) | user-generated content, search engines; hotels, structural models, text mining |
+| Mine your own business: Market-structure surveillance through text mining | Netzer et al. | 2012 | Marketing Science | [Link](https://pubsonline.informs.org/doi/10.1287/mksc.1120.0713) | - | 
 
 <a name="prediction"></a>
 ### Prediction
@@ -65,7 +71,8 @@ Note. Papers in top journals often make contributions across many topics so I cl
 | Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
 | Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
 | Consumer preference elicitation of complex products using fuzzy support vector machine active learning | Huang et al. | 2016 | Marketing Science | [Link] (https://pubsonline.informs.org/doi/10.1287/mksc.2015.0946) | - |
-
+| Retention Futility: Targeting High-Risk Customers Might Be Ineffective | Ascarza, E.| 2018 | Journal of Marketing Research | [Link](https://journals.sagepub.com/doi/abs/10.1509/jmr.16.0163?journalCode=mrja) | - |
+| Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis  | Wang et al.  | 2018  | Information Systems Research | [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735?journalCode=isre)  | -  |
 
 <a name="causal_inference"></a>
 ### Causal Inference
