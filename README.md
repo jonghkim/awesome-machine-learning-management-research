@@ -31,7 +31,7 @@ The purpose of this repository is intended to give an overview and cover the int
 
     - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
     - [Prediction](#prediction)
-    - [Casual Inference](#casual_inference)
+    - [Causal Inference](#causal_inference)
     - [Explainable Artificial Intelligence (XAI)](#xai)
     - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
     - [Application](#application)
@@ -62,8 +62,8 @@ The purpose of this repository is intended to give an overview and cover the int
 | Empirical Asset Pricing via Machine Learning | Gu et al. | 2020 | The Review of Financial Studies | [Link](https://academic.oup.com/rfs/article/33/5/2223/5758276) | - |
 | Autoencoder Asset Pricing Models | Gu et al. | 2020 | Journal of Econometrics | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998) | stock returns, conditional asset pricing model, autoencoder |
 
-<a name="casual_inference"></a>
-#### Casual Inference
+<a name="causal_inference"></a>
+#### Causal Inference
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining | Yang et al. | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0727) | - |
