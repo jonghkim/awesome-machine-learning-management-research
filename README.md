@@ -19,7 +19,6 @@ The purpose of this repository is intended to give an overview and cover the int
 
 ## Table of Contents
 Note. Papers in top journals often make contributions across many topics so I classified them according to their key contributions.
-
     - [Review Papers](#review_papers)
     - [Content Engineering / Variable Creation / Feature Extraction](#content_engineering)
     - [Prediction](#prediction)
