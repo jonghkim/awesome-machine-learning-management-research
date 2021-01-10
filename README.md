@@ -83,6 +83,7 @@ Papers in top journals often make contributions across many topics so I classifi
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining | Yang et al. | 2018 | Information Systems Research | [Link](https://pubsonline.informs.org/doi/10.1287/isre.2017.0727) | - |
+| Observational vs Experimental Data When Making Automated Decisions Using Machine Learning | Fernández-Loría and Provost | 2020 | WP | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3444678) | - |
 | Machine Learning Instrument Variables for Causal Inference | Singh et al. | 2020 | ACM Conference on Economics and Computation | [Link](https://dl.acm.org/doi/10.1145/3391403.3399466) | - |
 | The impact of machine learning on economics | Athey, S. | 2018 | The Economics of Artificial Intelligence: An Agenda | [Link](https://www.nber.org/system/files/chapters/c14009/c14009.pdf) | - | 
 | A Measure of Robustness to Misspecification | Athey and Imbens | 2015 | American Economic Review | [Link](https://www.aeaweb.org/articles?id=10.1257/aer.p20151020) | - |
@@ -94,6 +95,7 @@ Papers in top journals often make contributions across many topics so I classifi
 ### Explainable Artificial Intelligence (XAI)
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Explaining Data-Driven Decisions made by AI Systems: The Counterfactual Approach | Fernández-Loría et al. | 2020 | WP | [Link](https://arxiv.org/abs/2001.07417) | - |
 | Explainable AI: from black box to glass box  | Arun Rai  | 2019 | Journal of the Academy of Marketing Science | [Link](https://misq.org/misq/downloads/download/editorial/673/)  | -  |
 | Good Explanation for Algorithmic Transparency  | Lu et al.  | 2020 | WP | [Link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603)  | explainable AI, interpretable AI, lab experiments  |
 | Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration  | Lee et al.  | 2020  | WP |  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3304756) | interpretable machine learning, text mining, automatic concept extraction, augmented hypothesis development  | 
