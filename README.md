@@ -39,6 +39,7 @@ Papers in top journals often make contributions across many topics so I classifi
 | Predicting the Future: Machine Learning and Marketing | Wang et al. | 2019 | WP | [Link](https://sites.insead.edu/facultyresearch/research/file.cfm?fid=64810) | - | 
 | How can machine learning aid behavioral marketing research? | Hagen et al. | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09535-7)| - |
 | Unstructured data in marketing | Balducci and Marinova | 2018 | Journal of the Academy of Marketing Science | [Link](https://link.springer.com/article/10.1007/s11747-018-0581-x)| - |
+| Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
 
 <a name="content_engineering"></a>
 ### Content Engineering
@@ -111,4 +112,3 @@ Papers in top journals often make contributions across many topics so I classifi
 ### Application
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Soul and machine (learning) | Proserpio et al.  | 2020 | Marketing Letters | [Link](https://link.springer.com/article/10.1007/s11002-020-09538-4)  | - |
