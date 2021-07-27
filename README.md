@@ -29,7 +29,6 @@ Papers in top journals often make contributions across many topics so I classifi
 - [Causal Inference](#causal_inference)
 - [Explainable Artificial Intelligence (XAI)](#xai)
 - [Fairness, Accountability, and Transparency (FAT) in Machine Learning](#fat)
-- [Application](#application)
 
 <a name="review_papers"></a>
 ### Review Papers
@@ -107,8 +106,3 @@ Papers in top journals often make contributions across many topics so I classifi
 | Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks  | Han et al.  | Forthcoming  | MIS Quarterly  | -  | private information protection, personal exposure risk, machine-learning, location prediction attack  |
-
-<a name="application"></a>
-### Application
-| Title  | Author | Year | Journal | Link | Selected Keywords (Up to five) |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
